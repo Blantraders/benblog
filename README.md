@@ -1,0 +1,2 @@
+# benblog
+django blog testing
